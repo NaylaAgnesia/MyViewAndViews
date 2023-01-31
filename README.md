@@ -1,5 +1,5 @@
 # MyViewAndViews
-![Screenshot (749)](https://user-images.githubusercontent.com/110014840/215095249-fc85084e-af2c-4d58-b51f-0957d83e6f4a.png)
-<h1>Nama: Nayla Agnesia Widiya Putri</h1>
-<h1>No: 27</h1>
-<h1>Kelas: XI RPL 3</h1>
+![Screenshot (18)](https://user-images.githubusercontent.com/110014840/215681259-eaff3333-899c-43d9-84a8-ce92dd6b2c56.png)
+<h2>Nama: Nayla Agnesia Widiya Putri</h2>
+<h2>No: 27</h2>
+<h2>Kelas: XI RPL 3</h2>
